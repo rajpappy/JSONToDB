@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>UiPath</id>
+    <version>9.0.6736.25739</version>
+    <title>UiPath</title>
+    <authors>UiPath</authors>
+    <owners>UiPath</owners>
+    <licenseUrl>http://uipath.com/pricing</licenseUrl>
+    <projectUrl>http://uipath.com/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/uipath/9.0.6736.25739/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>SDK for UI automation and text capture featured in UiPath Studio</description>
+    <summary>SDK for UI automation and text capture featured in UiPath Studio</summary>
+    <language>en-US</language>
+    <tags>UI Automation Screen Scraper Scraping Text Capture Extract Automate</tags>
+  </metadata>
+</package>
